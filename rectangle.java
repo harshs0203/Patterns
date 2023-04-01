@@ -8,10 +8,10 @@ public static void main(String[] args) {
 int columns;
 Scanner s = new Scanner(System.in);
 
-System.out.print("Enter the numbr of rows  ");
+System.out.print("Enter the length  ");
 rows = s.nextInt();
 
-System.out.print("Enter the numbr of columns  ");
+System.out.print("Enter the breadth  ");
 columns = s.nextInt();
 
 //for rows
